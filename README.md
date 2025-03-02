@@ -86,3 +86,8 @@ pytest test_project.py
 This project is a practical tool that simplifies group dining by automating bill splitting and tip calculations. With **user authentication**, **error handling**, and a **structured database**, it demonstrates fundamental Python skills learning in class 🚀
 
 # Example
+
+![Screenshot 2025-03-02 at 1 50 24 AM](https://github.com/user-attachments/assets/d2f22f6f-3682-48c1-a7d5-03b230975017)
+
+
+![Screenshot 2025-03-02 at 1 49 57 AM](https://github.com/user-attachments/assets/a507a6a7-c0c4-4d5e-ba34-ab4c9a0939b8)
