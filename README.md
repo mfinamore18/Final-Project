@@ -1,5 +1,5 @@
 # Restaurant Order Splitter & Tip Calculator 🍽️
-
+## Video Demo: 
 
 The **Restaurant Order Splitter & Tip Calculator** is a Python application that enables one to share restaurant bills with friends and calculate tips with ease. The application provides a smooth experience with **user authentication** to enable users to **register and log in** prior to using the calculator. It additionally securely stores user credentials in a **SQLite database**.
 
